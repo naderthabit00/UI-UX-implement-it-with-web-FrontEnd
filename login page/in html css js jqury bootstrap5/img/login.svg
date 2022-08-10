@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1553" height="1080" viewBox="0 0 1553 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.143" y1="0.507" x2="0.439" y2="0.215" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#feba84"/>
+      <stop offset="1" stop-color="#ff76a4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.775" y1="0.543" x2="0.979" y2="0.491" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd6782"/>
+      <stop offset="1" stop-color="#b64193"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.729" y1="0.817" x2="0.94" y2="0.152" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd6782"/>
+      <stop offset="1" stop-color="#b74193"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.626" y1="0.65" x2="0.902" y2="0.209" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd6782"/>
+      <stop offset="0.384" stop-color="#e54a91"/>
+      <stop offset="1" stop-color="#ab3f94"/>
+    </linearGradient>
+    <clipPath id="clip-login_1">
+      <rect width="1553" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="login_1" data-name="login – 1" clip-path="url(#clip-login_1)">
+    <rect width="1553" height="1080" fill="#fff"/>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="matrix(0.766, 0.643, -0.643, 0.766, 413.095, 856.326)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+      <rect width="569.036" height="217.845" rx="108.923" stroke="none"/>
+      <rect x="0.5" y="0.5" width="568.036" height="216.845" rx="108.423" fill="none"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(-416.016 490.437) rotate(34)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient-2)">
+      <rect width="807.28" height="166.624" rx="83.312" stroke="none"/>
+      <rect x="0.5" y="0.5" width="806.28" height="165.624" rx="82.812" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(-193.925 -478.131) rotate(34)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient-3)">
+      <rect width="934.644" height="233.912" rx="116.956" stroke="none"/>
+      <rect x="0.5" y="0.5" width="933.644" height="232.912" rx="116.456" fill="none"/>
+    </g>
+    <g id="Path_2" data-name="Path 2" transform="translate(-547.371 -333.451) rotate(34)" fill="url(#linear-gradient-4)">
+      <path d="M 1214.562377929688 465.8251037597656 L 242.9124298095703 465.8251037597656 C 119.9980239868164 465.8251037597656 20.00002670288086 365.826904296875 20.00002670288086 242.9124908447266 C 20.00002670288086 119.9980926513672 119.9980239868164 20.00009155273438 242.9124298095703 20.00009155273438 L 1214.562377929688 20.00009155273438 C 1337.476806640625 20.00009155273438 1437.474853515625 119.9980926513672 1437.474853515625 242.9124908447266 C 1437.474853515625 365.826904296875 1337.476806640625 465.8251037597656 1214.562377929688 465.8251037597656 Z" stroke="none"/>
+      <path d="M 242.9124755859375 39.9998779296875 C 131.026123046875 39.9998779296875 40 131.0261840820312 40 242.9124908447266 C 40 354.7987976074219 131.026123046875 445.8248901367188 242.9124755859375 445.8248901367188 L 1214.562377929688 445.8248901367188 C 1326.44873046875 445.8248901367188 1417.474853515625 354.7987976074219 1417.474853515625 242.9124908447266 C 1417.474853515625 131.0261840820312 1326.44873046875 39.9998779296875 1214.562377929688 39.9998779296875 L 242.9124755859375 39.9998779296875 M 242.9124755859375 -0.0001220703125 L 1214.562377929688 -0.0001220703125 C 1348.719116210938 -0.0001220703125 1457.474853515625 108.7555236816406 1457.474853515625 242.9124908447266 C 1457.474853515625 377.0692138671875 1348.719116210938 485.8248901367188 1214.562377929688 485.8248901367188 L 242.9124755859375 485.8248901367188 C 108.7557373046875 485.8248901367188 0 377.0692138671875 0 242.9124908447266 C 0 108.7555236816406 108.7557373046875 -0.0001220703125 242.9124755859375 -0.0001220703125 Z" stroke="none" fill="#e1c3de"/>
+    </g>
+  </g>
+</svg>

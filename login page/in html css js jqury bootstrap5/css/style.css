@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background: linear-gradient(128deg,#FEA06A,#E74C8E,#82369A);
+}
+.main{
+    
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    color:#6E6E6E;
+   
+}
+
+
+.contant{
+    box-shadow:0 10px 44px 0 rgba(146, 146, 146, 0.9);
+    background-image: url('../img/login.svg');
+    background-repeat: no-repeat;
+    width: 60%;
+    background-size:cover;
+    background-position: left center;
+    border-radius: 10px;
+    font-family:'Cadillac Sans Arabic';
+    
+    
+}
+.contant h1{
+    color:#6E6E6E;
+
+}
+
+
+.inputDiv{
+    background-color: #E5E5E5;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    margin: 0 auto;
+
+    
+}
+input[type="text"]{
+    background-color: #E5E5E5;
+    border: 0;
+    width: 80%;
+
+}
+input[type="password"]{
+    background-color: #E5E5E5;
+    border: 0;
+    width: 80%;
+    
+
+}
+input:focus{
+    border-color:white;
+    border: 0;
+    
+}
+
+.login{
+
+    background: linear-gradient(128deg,#FD6782,#B64193);
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: blueviolet;
+    font-weight: bold;
+    color: white;
+    border: 0;
+}
+.login:hover{
+    background: linear-gradient(128deg ,#B64193,#FD6782);
+}
+
+.developerinfocontainer{
+    display: flex;
+    justify-content: center;
+
+}
+.developerinfo{
+    background: linear-gradient(250deg ,#FEBA84,#FD6782);
+    
+}
+.developerinfo img{
+    width: 40px;
+}

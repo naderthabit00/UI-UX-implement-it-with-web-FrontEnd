@@ -1,0 +1,88 @@
+
+body{
+    background-image: url('../img/bg-image.svg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+   
+}
+.main{
+    
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    
+   
+}
+
+
+.contant{
+    color: white;
+    font-weight: bold;
+    background-color: rgba(252, 209, 198, 0.42);
+    border-radius: 1rem;
+    font-family:'Cadillac Sans Arabic';
+    
+    
+}
+
+.contant p{
+    color: #EA8181;
+}
+
+
+input[type="text"]{
+    background-color: #F9D2C8;
+    border: 0;
+    color: white;
+    font-weight: bolder;
+    
+    
+
+}
+input[type="password"]{
+    background-color: #F9D2C8;
+    border: 0;
+    color: white;
+    font-weight: bolder;
+    
+    
+    
+
+}
+input:focus{
+    background-color: #F9D2C8;
+    border: 0;
+    
+}
+
+
+.login{
+
+    background-color: #F9D2C8;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    font-weight: bold;
+    color: white;
+    border: 0;
+}
+.login:hover{
+    background: linear-gradient(128deg ,#B64193,#FD6782);
+    background: linear-gradient(160deg ,#FAACD7,#F696A2,#F07E73,#EF7276);
+}
+
+.developerinfocontainer{
+    display: flex;
+    justify-content: center;
+
+}
+.developerinfo{
+    background: linear-gradient(77deg ,#FBB3D4,#FFC597);
+    
+}
+.developerinfo img{
+    width: 40px;
+}

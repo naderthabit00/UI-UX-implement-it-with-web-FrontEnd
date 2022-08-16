@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.023" y1="0.029" x2="0.928" y2="0.937" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#faacd7"/>
+      <stop offset="0.236" stop-color="#f696a2"/>
+      <stop offset="0.775" stop-color="#f07e73"/>
+      <stop offset="1" stop-color="#ef7276"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.156" y1="0.264" x2="0.878" y2="0.752" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcb3e0"/>
+      <stop offset="0.581" stop-color="#f598b7"/>
+      <stop offset="1" stop-color="#ee869a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.703" y1="0.21" x2="0.341" y2="0.71" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fbb3d4"/>
+      <stop offset="1" stop-color="#ea7a4b"/>
+    </linearGradient>
+    <clipPath id="clip-bg-image">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="bg-image" clip-path="url(#clip-bg-image)">
+    <rect width="1920" height="1080" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="140" cy="140" r="140" transform="translate(516 130)" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="110" cy="110" r="110" transform="translate(1185 648)" fill="url(#linear-gradient-3)"/>
+    <text id="forget_password_" data-name="forget password ?" transform="translate(877 817)" fill="#ea8181" font-size="22" font-family="CadillacSansArabic-Medium, Cadillac Sans Arabic" font-weight="500"><tspan x="0" y="0">forget password ?</tspan></text>
+  </g>
+</svg>
